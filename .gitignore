@@ -126,7 +126,6 @@ dmypy.json
 .py~
 .gitignore~
 
-.vscode/
 .idea/
 *.py~
 *.ipynb
@@ -142,3 +141,6 @@ experiment/
 upload/
 models_src/
 photo2cartoon_resources.zip
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
